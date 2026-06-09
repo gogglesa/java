@@ -1,2 +1,5 @@
-# java
-Brave Goggle for Java 25
+# GoggleSA - Java
+
+Various Java-related goggles for Brave Search.
+
+
