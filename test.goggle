@@ -1,0 +1,10 @@
+! name: Java 25 - Test
+! description: Prioritizes popular Java 25 domains
+! public: true
+! author: Behrang Saeedzadeh
+! avatar: #01b47b
+! homepage: https://github.com/gogglesa/hyprland
+! generated: 2026-06-02 00:33:0+00:00
+
+! Java Docs
+/en/java/javase/25/$boost=3,site=docs.oracle.com
