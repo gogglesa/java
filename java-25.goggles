@@ -1,10 +1,10 @@
-! name: JavaSA 25
-! description Java 25 focused results
-! public: false
+! name: JavaSA25
+! description: Prioritizes popular Java 25 related content
+! public: true
 ! author: Behrang Saeedzadeh
-! avatar: #cdb4db
-! homepage: https://github.com/gogglesa/java/
-! generated: 2026-06-09 00:02:45+00:00
+! avatar: #01b47b
+! homepage: https://github.com/gogglesa/java
+! generated: 2026-06-09 02:45:0+00:00
 
 $discard
 
