@@ -8,6 +8,6 @@
 
 $discard
 
-# Java Docs 25
+! Java Docs 25
 /en/java/javase/25/$boost=3,site=docs.oracle.com
 /en/java/javase/26/$boost=2,site=docs.oracle.com
