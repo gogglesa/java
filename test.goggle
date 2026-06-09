@@ -9,4 +9,4 @@
 $discard
 
 ! YouTube
-https://www.youtube.com/@java/* $boost=3
+site=youtube.com /@java/$boost=3
