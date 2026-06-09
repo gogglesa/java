@@ -13,4 +13,4 @@ $discard
 /en/java/javase/26/$boost=2,site=docs.oracle.com
 
 ! YouTube
-/java/$boost3,site=www.youtube.com
+/@java/$boost=3,site=www.youtube.com
