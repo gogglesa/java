@@ -6,11 +6,10 @@
 ! homepage: https://github.com/gogglesa/java
 ! generated: 2026-06-09 02:45:0+00:00
 
-$discard
-
-! Java Docs 25
+! Java Docs
 /en/java/javase/25/$boost=3,site=docs.oracle.com
 /en/java/javase/26/$boost=2,site=docs.oracle.com
+/en/java/javase/27/$boost=1,site=docs.oracle.com
 
 ! YouTube
 https://www.youtube.com/@java/* $boost=3
