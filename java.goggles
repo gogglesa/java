@@ -1,15 +1,12 @@
-! name: JavaSA25
-! description: Prioritizes popular Java 25 related content
-! public: true
+! name: JavaSA
+! description: Prioritizes Java related content
+! public: false
 ! author: Behrang Saeedzadeh
 ! avatar: #01b47b
 ! homepage: https://github.com/gogglesa/java
 ! generated: 2026-06-09 02:45:0+00:00
 
 ! Java Docs
-/en/java/javase/25/$boost=3,site=docs.oracle.com
 /en/java/javase/26/$boost=2,site=docs.oracle.com
+/en/java/javase/25/$boost=2,site=docs.oracle.com
 /en/java/javase/27/$boost=1,site=docs.oracle.com
-
-! YouTube
-https://www.youtube.com/@java/* $boost=3
