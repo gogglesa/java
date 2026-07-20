@@ -8,5 +8,9 @@
 
 ! Java Docs
 /en/java/javase/26/$boost=2,site=docs.oracle.com
-/en/java/javase/25/$boost=2,site=docs.oracle.com
+/en/java/javase/25/$boost=1,site=docs.oracle.com
 /en/java/javase/27/$boost=1,site=docs.oracle.com
+
+! JavaFX
+/en/java/java-components/javafx/26/$boost=2,site=docs.oracle.com
+/en/java/java-components/javafx/25/$boost=1,site=docs.oracle.com
