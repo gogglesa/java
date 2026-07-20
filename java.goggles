@@ -14,3 +14,6 @@
 ! JavaFX
 /en/java/java-components/javafx/25/$boost=2,site=docs.oracle.com
 /en/java/java-components/javafx/26/$boost=3,site=docs.oracle.com
+
+/javadoc/25/$boost=2,site=openjfx.io
+/javadoc/26/$boost=3,site=openjfx.io
